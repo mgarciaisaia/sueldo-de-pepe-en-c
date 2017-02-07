@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.d
+sueldo-pepe/Debug/sueldo-pepe
+
